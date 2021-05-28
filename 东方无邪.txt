@@ -1,3 +1,5 @@
 就是玩iiiiiiiiiiiiiiiii！
 
 2、测试更改内容后，重新commit！
+
+3、合并分支
